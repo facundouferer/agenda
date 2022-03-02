@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "nombre": "Facundo",
+      "apellido": "Uferer",
+      "email": "juanfacundouf@gmail.com",
+      "id": 1
+    },
+    {
+      "nombre": "Rita",
+      "apellido": "Sosa",
+      "email": "ritasosa3553@gmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "Termo",
+      "apellido": "Staneley",
+      "email": "muycaro@gmail.com",
+      "id": 3
+    },
+    {
+      "nombre": "Termo2",
+      "apellido": "Staneley2",
+      "email": "muycaro@gmail.com",
+      "id": 4
+    }
+  ]
+}
